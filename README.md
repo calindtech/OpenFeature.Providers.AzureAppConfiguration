@@ -1,0 +1,2 @@
+# OpenFeature.Providers.AzureAppConfiguration
+OpenFeature implementation wrapping Azure AppConfigurartion
